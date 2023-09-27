@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Arrigon88.github.io/sitemap.xml
+Sitemap: https://arrigon88.github.io/sitemap.xml
